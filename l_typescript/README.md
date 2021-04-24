@@ -1,0 +1,3 @@
+```
+$ tsc fileOne.ts -w
+```
